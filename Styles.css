@@ -1,0 +1,108 @@
+/**
+ * Styles.css
+ * - Add any styles you want here!
+ */
+/* nav bar */
+
+* {
+
+    resize: none;
+    scroll-behavior: smooth;
+    outline: smooth;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Creepster', cursive;
+ font-size: 22px;
+
+}
+
+nav {
+    background: #010101;
+    height: 60px
+}
+
+nav li {
+    float: left
+}
+
+
+nav li a {
+    text-transform: uppercase;
+    color: rgb(255, 175, 26);
+    line-height: 50px;
+    font-size: 1.15em;
+    padding: 23px;
+    text-align: center
+}
+
+
+
+
+
+<div>
+.flex-container{
+    display: flex;
+  flex-flow: row wrap;
+  flex-box: center ,flex-start, flex-end, space-around ,space-between;
+
+}
+body {
+  Background-color: rgb(75, 55, 85);
+}
+.title {
+  font-family: 'Creepster', cursive;
+  font-size: 60px;
+  color: rgb(255, 178, 28);
+}
+.body {
+ Font:  1.25em Impact, Charcoal, sans-serif;
+ Color: rgb(255, 175, 26); 
+}
+.HauntedHollow {
+ Color: rgb(255, 175, 26); 
+  Font:  2em Impact, Charcoal, sans-serif;
+}
+
+
+.title {
+  font-family: 'Creepster', cursive;
+  font-size: 60px;
+  color: rgb(255, 178, 28);
+ 
+}
+.hollow{
+  font-family: 'Creepster', cursive;
+  font-size: 60px;
+  color: rgb(255, 178, 28);
+
+ }
+
+
+#Border
+
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 15px;
+}
+table tr:nth-child(even) {
+  background-color: grey;
+}
+table tr:nth-child(odd) {
+  background-color: grey;
+}
+table th {
+  color: white;
+  background-color: grey;
+}
+
+
+nav a:hover{ 
+  background-color: rgb(75, 55, 85);
+
+
+
+
